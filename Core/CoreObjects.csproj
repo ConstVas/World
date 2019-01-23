@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="LifelessObjects\CraftedObjects\Inorganics\" />
+    <Folder Include="LifelessObjects\CraftedObjects\Organics\Foods\" />
+    <Folder Include="LifelessObjects\NaturalObjects\Minerals\" />
+    <Folder Include="LifelessObjects\NaturalObjects\Liquids\" />
+    <Folder Include="LifelessObjects\NaturalObjects\Wood\" />
+  </ItemGroup>
+
+</Project>
